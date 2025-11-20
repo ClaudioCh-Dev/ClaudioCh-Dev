@@ -5,8 +5,6 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/claudio-angelo-chumpitaz-flores-29b069252)
 
-# 🚀 Tech Stack:
-
 ## 🖥️ Programming Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
