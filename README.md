@@ -44,7 +44,6 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 ![Scrum](https://img.shields.io/badge/scrum-%230A97D9.svg?style=for-the-badge)
 
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XDRiderXtremeXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XDRiderXtremeXD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ClaudioCh-DevXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioCh-DevXD&theme=dark&hide_border=false)<br/>
