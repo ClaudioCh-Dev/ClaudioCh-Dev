@@ -44,6 +44,10 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 ![Scrum](https://img.shields.io/badge/scrum-%230A97D9.svg?style=for-the-badge)
 
 
-![ClaudioCh-Dev's Stats](https://github-readme-stats.vercel.app/api?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
-![ClaudioCh-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
