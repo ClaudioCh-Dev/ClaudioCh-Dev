@@ -45,4 +45,5 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 
 
 ![ClaudioCh-Dev's Stats](https://github-readme-stats.vercel.app/api?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![ClaudioCh-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCh-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
